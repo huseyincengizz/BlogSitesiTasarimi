@@ -1,2 +1,2 @@
 # BlogSitesiTasarimi
-Blog Sitesi Tasarımı
+Blog Sitesi Tasarımı Kodlama
